@@ -45,9 +45,11 @@ try:
     print("Nombre del producto:", nombre)
     print("Precio:", precio)
     print("Descripción:", descripcion)
+    print("Calificaciones:", calificaciones)
 
 except Exception as e:
     print("Error al extraer información:", e)
 
 # Cerrar el navegador
 driver.quit()
+
