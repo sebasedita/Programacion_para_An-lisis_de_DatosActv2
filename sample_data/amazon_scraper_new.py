@@ -64,7 +64,7 @@ try:
     print("Calificaciones:", calificaciones)
     print("Vendido por:", vendido_por)
     print("Fabricante:", fabricante)
-    print("Edad recomendada por el fabricante:", edad recomendada por el fabricante)
+   
 
 except Exception as e:
     print("Error al extraer información:", e)
