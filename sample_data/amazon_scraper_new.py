@@ -46,6 +46,7 @@ try:
     print("Precio:", precio)
     print("Descripción:", descripcion)
     print("Calificaciones:", calificaciones)
+    print("Vendido por:", vendido_por)
 
 except Exception as e:
     print("Error al extraer información:", e)
